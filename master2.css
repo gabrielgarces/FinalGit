@@ -1,0 +1,28 @@
+body{
+  font-size: 18px;
+  font-family: "Verdana";
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+.general{
+	  margin: 1em;
+	  padding: 0.5em;
+}
+.center{
+  text-align: center;
+}
+h1{
+	color: white;
+	font-family:"Arial";
+	background-color: black;
+}
+h2{
+	font-size: 35px;
+	font-family: "Arial Black";	
+	color: white;
+}
+p{
+	color: grey;
+	font-family: "Verdana";
+}
